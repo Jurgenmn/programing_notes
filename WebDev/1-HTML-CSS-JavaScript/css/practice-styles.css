@@ -1,0 +1,54 @@
+body {
+    background: #b4eeca;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+    font: 32px Garamond, Helvetica, serif;
+}
+
+table {
+    width: 50%;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+}
+
+
+.menu{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: red;
+}
+
+.select{
+    border: 3px dashed;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: green;
+}
+
+.review{
+    border: 2px dotted red;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: yellow;
+}
+
+.contact{
+    border: 5px double blue;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: orange;
+}

@@ -1,0 +1,63 @@
+body {
+    font-family: "Hanalei Fill", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Hanalei Fill', sans-serif;
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h1 {
+    font-size: 72px;
+    color: black;
+}
+
+header h2 {
+    color: black;
+    font-size: 48px;
+}
+
+.site-footer {
+    background-image: linear-gradient(#2188cb, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    background-image: url("../img/CampgroundSmall.jpg");
+    background-size: cover;
+    height: 100%;
+    margin-bottom: 0px;
+  }
+
+.row-content{
+  padding: 50px 0;
+  border-bottom: 1px ridge;  
+  min-height: 200px;
+}
+
+
+.navbar {
+    background-color: #2188cb;
+    font-size: 24px;
+}
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px; 
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+
+.container-fluid {
+    background-image: linear-gradient(#b0f06c, white);
+}
+
